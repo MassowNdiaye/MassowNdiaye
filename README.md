@@ -17,12 +17,12 @@ Welcome to my GitHub profile! I’m passionate about building meaningful softwar
 ## 🛠️ Tech Stack
 
 ### **Languages**
-`JavaScript` · `Python` · `Java` ·
+`HTML` . `CSS` . `JavaScript` · `Python` · `Java`
 
 ### **Frameworks & Libraries**
 `React` · `Node.js` 
 
 ### **Tools & Platforms**
-`Git` · `AWS` `PostMan`
+`Git` · `AWS` . `PostMan`
 
 ---
